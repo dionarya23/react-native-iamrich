@@ -25,5 +25,5 @@ You can download :
 
 or scan this barcode using expo app
 <p align="left">
-  <img width="100" height="100" src="https://image.flaticon.com/icons/svg/29/29544.svg">
+  <img width="100" height="100" src="https://github.com/dionarya23/react-native-iamrich/blob/master/barcode.png">
 </p>
